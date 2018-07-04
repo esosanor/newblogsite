@@ -1,0 +1,61 @@
+/* body styling */
+h1{
+    font-family: sans-serif;
+}
+body{
+
+}
+
+/*header styling*/
+header{
+
+}
+
+/* navigation styling */
+ul {
+    list-style-type: none;
+}
+
+li{
+    float:left;
+    background-color: white;
+    width: 130px;
+    height: 30px;
+    text-align: center;
+    padding-top: 16px;
+    color: black;
+}
+
+li:hover {
+    background-color: peachpuff;
+}
+
+a{ 
+    color:black;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+h1{
+    font-family: sans-serif;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    margin: 10%
+    
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+
+/*footer*/
+footer{
+
+
+}
+
